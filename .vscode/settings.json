@@ -1,5 +1,0 @@
-{
-  "appService.zipIgnorePattern": [".vscode{,/**}", "node_modules{,/**}"],
-  "appService.deploySubpath": "",
-  "appService.defaultWebAppToDeploy": "/subscriptions/31d26d4a-5ae9-45ef-9917-f6b0a7a9c883/resourceGroups/rg-a-simple-http-server/providers/Microsoft.Web/sites/a-simple-http-server"
-}
