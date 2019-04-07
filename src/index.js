@@ -9,6 +9,7 @@ app.get("/", function(req, res) {
   res.sendFile(path.join(__dirname + "/index.html"));
 });
 
+// this will crash the server
 app.get("/read", function(req, res) {
   fs.createReadStream("not-found-txt");
 });
