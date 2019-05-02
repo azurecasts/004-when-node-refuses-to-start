@@ -6,6 +6,6 @@ In this video, we're going to try and figure out why Azure suddenly refuses to s
 
 If you want to learn more about the resources in this episode, click below!
 
-- [Azure App Service extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice&WT.mc_id=docs-azurecasts-buhollan)
-- [Deploy to Azure using App Service](https://code.visualstudio.com/tutorials/app-service-extension/getting-started?WT.mc_id=docs-azurecasts-buhollan)
-- [Deploy using Azure CLI](https://code.visualstudio.com/tutorials/nodejs-deployment/getting-started?WT.mc_id=docs-azurecasts-buhollan)
+- [Azure App Service extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice&WT.mc_id=azurecast_004-github-burkeholland)
+- [Deploy to Azure using App Service](https://code.visualstudio.com/tutorials/app-service-extension/getting-started?WT.mc_id=azurecast_004-github-burkeholland)
+- [Deploy using Azure CLI](https://code.visualstudio.com/tutorials/nodejs-deployment/getting-started?WT.mc_id=azurecast_004-github-burkeholland)
